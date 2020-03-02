@@ -1,6 +1,6 @@
 # nodeAuth
 
-first enter in the terminal 'run npm install' to install all dependacies found in package.json
+first enter in the terminal 'run npm install' to install all dependencies found in package.json
 
 to run the server enter ' npm run start' in the terminal
 
